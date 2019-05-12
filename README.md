@@ -1,0 +1,1 @@
+Test project which uses 'azog-macos' command line.

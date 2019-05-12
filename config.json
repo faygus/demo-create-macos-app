@@ -1,0 +1,8 @@
+{
+	"projectConfig": {
+		"productName": "superProjet",
+		"organizationName": "myAwesomeOrganization",
+		"organizationIdentifier": "myAwesomeOrganizationId"
+	},
+	"outputDir": "output"
+}
