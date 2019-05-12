@@ -1,11 +1,10 @@
 {
-  "name": "azog-build-test",
+  "name": "demo-create-macos-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Demo of create-macos-app commandline usage",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "link": "npm link azog-macos",
     "start": "create-macos-app config.json example-source-code.txt"
   },
   "author": "",
